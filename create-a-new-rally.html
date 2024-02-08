@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./create-a-new-rally.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Figma Hand:wght@400;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Langar:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Assistant:wght@200;300;600&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Athiti:wght@300&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Bonheur Royale:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="create-a-new-rally">
+      <img class="create-a-new-rally-child" alt="" />
+
+      <div class="rallyup7">RallyUp</div>
+      <div class="home6" id="homeText">Home</div>
+      <div class="profile5">Profile</div>
+      <div class="contactus5">ContactUs</div>
+      <div class="create-a-new-rally-item"></div>
+      <div class="create-a-new-rally-inner"></div>
+      <b class="name">Name </b>
+      <b class="name-of-the">Name of The Event </b>
+      <div class="create-a-new-rally-child1"></div>
+      <b class="decsription">Decsription </b>
+      <div class="create-a-new-rally-child2"></div>
+      <b class="approx-gathering">approx gathering</b>
+      <div class="create-a-new-rally-child3"></div>
+      <b class="specific-instructions">specific instructions</b>
+      <div class="create-a-new-rally-child4"></div>
+      <b class="sponsors-if-any">sponsors (if any)</b>
+      <div class="create-a-new-rally-child5"></div>
+      <b class="location2">location:</b>
+      <b class="write-what-this">write what this event is about </b>
+      <div class="create-a-new-rally-child6"></div>
+      <b class="add-your-team">add your team </b>
+      <div class="create-a-new-rally-child7"></div>
+      <b class="search-by-email">search by email or username </b>
+      <img class="vector-icon32" alt="" src="./public/vector.svg" />
+
+      <img class="vector-icon33" alt="" src="./public/vector.svg" />
+
+      <div class="create-a-new-rally-child8"></div>
+      <b class="create" id="cREATEText">CREATE </b>
+      <div class="create-a-new-rally-child9"></div>
+      <b class="add-banner-poster"
+        >add banner poster or ther images for your event
+      </b>
+      <div class="create-a-new-rally-child10"></div>
+      <div class="my-dashboard2">my dashboard</div>
+      <div class="rallyup8" id="rallyUPText">RallyUP</div>
+      <div class="report-incidence2">Report Incidence</div>
+      <div class="notification4">notification</div>
+    </div>
+
+    <script>
+      var homeText = document.getElementById("homeText");
+      if (homeText) {
+        homeText.addEventListener("click", function (e) {
+          window.location.href = "./home.html";
+        });
+      }
+      
+      var cREATEText = document.getElementById("cREATEText");
+      if (cREATEText) {
+        cREATEText.addEventListener("click", function (e) {
+          window.location.href = "./new-rally-admin.html";
+        });
+      }
+      
+      var rallyUPText = document.getElementById("rallyUPText");
+      if (rallyUPText) {
+        rallyUPText.addEventListener("click", function (e) {
+          window.location.href = "./rally-home.html";
+        });
+      }
+      </script>
+  </body>
+</html>

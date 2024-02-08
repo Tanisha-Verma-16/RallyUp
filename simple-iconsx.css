@@ -1,0 +1,8 @@
+.simple-iconsx {
+  width: 100%;
+  position: relative;
+  height: 61px;
+  overflow: hidden;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}

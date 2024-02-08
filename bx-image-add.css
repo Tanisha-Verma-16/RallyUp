@@ -1,0 +1,37 @@
+.vector-icon35,
+.vector-icon36,
+.vector-icon37 {
+  position: absolute;
+  height: 66.67%;
+  width: 70.82%;
+  top: 12.51%;
+  right: 20.82%;
+  bottom: 20.82%;
+  left: 8.35%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon36,
+.vector-icon37 {
+  height: 25.03%;
+  width: 45.82%;
+  top: 37.49%;
+  right: 33.35%;
+  bottom: 37.49%;
+  left: 20.82%;
+}
+.vector-icon37 {
+  height: 33.33%;
+  width: 33.35%;
+  top: 58.36%;
+  right: 8.3%;
+  bottom: 8.31%;
+  left: 58.35%;
+}
+.bx-image-add {
+  width: 100%;
+  position: relative;
+  height: 183px;
+  overflow: hidden;
+}

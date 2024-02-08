@@ -1,0 +1,327 @@
+.create-a-new-rally-child {
+  position: absolute;
+  top: 304px;
+  left: 84px;
+  width: 1272px;
+  height: 3px;
+  object-fit: contain;
+}
+.contactus5,
+.home6,
+.profile5,
+.rallyup7 {
+  position: absolute;
+  font-family: var(--font-langar);
+  display: inline-block;
+}
+.rallyup7 {
+  top: 33px;
+  left: 479px;
+  font-size: var(--font-size-109xl);
+  width: 483px;
+  height: 154px;
+}
+.contactus5,
+.home6,
+.profile5 {
+  font-size: var(--font-size-17xl);
+}
+.home6 {
+  top: 233px;
+  left: 878px;
+  width: 95px;
+  height: 48px;
+  cursor: pointer;
+}
+.contactus5,
+.profile5 {
+  top: 235px;
+  left: 1051px;
+  width: 138px;
+  height: 44px;
+}
+.contactus5 {
+  left: 1241px;
+  width: 169px;
+  height: 40px;
+}
+.create-a-new-rally-inner,
+.create-a-new-rally-item {
+  position: absolute;
+  top: 466px;
+  left: 406px;
+  background-color: var(--color-gainsboro-300);
+  width: 589px;
+  height: 61px;
+}
+.create-a-new-rally-inner {
+  top: 560px;
+  left: 412px;
+  width: 583px;
+  height: 59px;
+}
+.name,
+.name-of-the {
+  position: absolute;
+  top: 478px;
+  left: 417px;
+  letter-spacing: -0.02em;
+  line-height: 150%;
+  display: inline-block;
+  width: 556px;
+  height: 42px;
+}
+.name-of-the {
+  top: 567px;
+  left: 420px;
+  width: 543px;
+  height: 41px;
+}
+.create-a-new-rally-child1 {
+  position: absolute;
+  top: 647px;
+  left: 412px;
+  background-color: var(--color-gainsboro-300);
+  width: 583px;
+  height: 225px;
+}
+.decsription {
+  position: absolute;
+  top: 647px;
+  left: 420px;
+  letter-spacing: -0.02em;
+  line-height: 150%;
+  display: inline-block;
+  width: 511px;
+  height: 30px;
+}
+.create-a-new-rally-child2 {
+  position: absolute;
+  top: 897px;
+  left: 412px;
+  background-color: var(--color-gainsboro-300);
+  width: 583px;
+  height: 60px;
+}
+.approx-gathering {
+  position: absolute;
+  top: 907px;
+  left: 425px;
+  letter-spacing: -0.02em;
+  line-height: 150%;
+  display: inline-block;
+  width: 548px;
+  height: 41px;
+}
+.create-a-new-rally-child3 {
+  position: absolute;
+  top: 980px;
+  left: 412px;
+  background-color: var(--color-gainsboro-300);
+  width: 583px;
+  height: 64px;
+}
+.specific-instructions {
+  position: absolute;
+  top: 990px;
+  left: 424px;
+  letter-spacing: -0.02em;
+  line-height: 150%;
+  display: inline-block;
+  width: 517px;
+  height: 42px;
+}
+.create-a-new-rally-child4 {
+  position: absolute;
+  top: 1068px;
+  left: 412px;
+  background-color: var(--color-gainsboro-300);
+  width: 583px;
+  height: 130px;
+}
+.sponsors-if-any {
+  position: absolute;
+  top: 1084px;
+  left: 438px;
+  letter-spacing: -0.02em;
+  line-height: 150%;
+  display: inline-block;
+  width: 480px;
+  height: 57px;
+}
+.create-a-new-rally-child5 {
+  position: absolute;
+  top: 1220px;
+  left: 416px;
+  background-color: var(--color-gainsboro-300);
+  width: 579px;
+  height: 118px;
+}
+.location2,
+.write-what-this {
+  position: absolute;
+  top: 1232px;
+  left: 438px;
+  letter-spacing: -0.02em;
+  line-height: 150%;
+  display: inline-block;
+  width: 535px;
+  height: 82px;
+}
+.write-what-this {
+  top: 733px;
+  left: 492px;
+  width: 371px;
+  height: 68px;
+}
+.create-a-new-rally-child6 {
+  position: absolute;
+  top: 1360px;
+  left: 416px;
+  background-color: var(--color-gainsboro-300);
+  width: 579px;
+  height: 394px;
+}
+.add-your-team {
+  position: absolute;
+  top: 1392px;
+  left: 432px;
+  letter-spacing: -0.02em;
+  line-height: 150%;
+  display: inline-block;
+  width: 502px;
+  height: 54px;
+}
+.create-a-new-rally-child7 {
+  position: absolute;
+  top: 1449px;
+  left: 482px;
+  background-color: snow;
+  width: 420px;
+  height: 34px;
+}
+.search-by-email {
+  position: absolute;
+  top: 1459px;
+  left: 534px;
+  font-size: 16px;
+  letter-spacing: -0.02em;
+  line-height: 150%;
+  display: inline-block;
+  width: 388px;
+  height: 30px;
+}
+.vector-icon32,
+.vector-icon33 {
+  position: absolute;
+  height: 1.94%;
+  width: 2.92%;
+  top: 70.09%;
+  right: 33.68%;
+  bottom: 27.97%;
+  left: 63.4%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon33 {
+  height: 1.21%;
+  width: 1.81%;
+  top: 70.43%;
+  right: 34.24%;
+  bottom: 28.36%;
+  left: 63.96%;
+}
+.create-a-new-rally-child8 {
+  position: absolute;
+  top: 1822px;
+  left: 549px;
+  background-color: var(--color-gainsboro-300);
+  width: 358px;
+  height: 67px;
+}
+.create {
+  position: absolute;
+  top: 1834px;
+  left: 608px;
+  font-size: var(--font-size-17xl);
+  letter-spacing: -0.02em;
+  line-height: 150%;
+  display: inline-block;
+  width: 262px;
+  height: 55px;
+  cursor: pointer;
+}
+.create-a-new-rally-child9 {
+  position: absolute;
+  top: 465px;
+  left: 1075px;
+  background-color: var(--color-gainsboro-300);
+  width: 333px;
+  height: 363px;
+}
+.add-banner-poster {
+  position: absolute;
+  top: 715px;
+  left: 1127px;
+  font-size: var(--font-size-xl);
+  letter-spacing: -0.02em;
+  line-height: 150%;
+  display: inline-block;
+  width: 255px;
+  height: 64px;
+}
+.create-a-new-rally-child10 {
+  position: absolute;
+  top: 478px;
+  left: 5px;
+  background-color: var(--color-whitesmoke-200);
+  width: 299px;
+  height: 845px;
+}
+.my-dashboard2 {
+  top: 541px;
+  left: 21px;
+  width: 279px;
+  height: 52px;
+}
+.my-dashboard2,
+.notification4,
+.rallyup8,
+.report-incidence2 {
+  position: absolute;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-langar);
+  display: inline-block;
+}
+.rallyup8 {
+  top: 676px;
+  left: 51px;
+  width: 206px;
+  height: 57px;
+  cursor: pointer;
+}
+.notification4,
+.report-incidence2 {
+  top: 781px;
+  left: 9px;
+  width: 302px;
+  height: 47px;
+}
+.notification4 {
+  top: 904px;
+  left: 27px;
+  width: 266px;
+  height: 53px;
+}
+.create-a-new-rally {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 2063px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-figma-hand);
+}

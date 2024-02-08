@@ -1,0 +1,222 @@
+.contact-us {
+  position: absolute;
+  top: 226px;
+  left: 389px;
+  font-size: var(--font-size-81xl);
+  letter-spacing: 0.15em;
+  font-weight: 600;
+  mix-blend-mode: darken;
+}
+.address {
+  margin: 0;
+}
+.address-kashmere-gate-newdelh-container {
+  position: absolute;
+  top: 648px;
+  left: 85px;
+  font-family: var(--font-langar);
+  display: inline-block;
+  width: 403px;
+  height: 44px;
+}
+.location-pin,
+.location-pin-icon {
+  position: absolute;
+  top: 544px;
+  left: 73px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.location-pin {
+  top: 561px;
+  left: 125px;
+}
+.vector-icon39 {
+  height: 1.19%;
+  width: 1.25%;
+  top: 24.96%;
+  right: 91.39%;
+  bottom: 73.85%;
+  left: 7.36%;
+}
+.vector-icon39,
+.vector-icon40,
+.vector-icon41 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon40 {
+  height: 2.48%;
+  width: 3.47%;
+  top: 25.46%;
+  right: 90.42%;
+  bottom: 72.07%;
+  left: 6.11%;
+  mix-blend-mode: darken;
+}
+.vector-icon41 {
+  height: 2.58%;
+  width: 3.13%;
+  top: 31.9%;
+  right: 94.1%;
+  bottom: 65.53%;
+  left: 2.78%;
+  cursor: pointer;
+}
+.phone-7303315467-7011636958 {
+  position: absolute;
+  top: 1010px;
+  left: 104px;
+  font-family: var(--font-langar);
+}
+.vector-icon42 {
+  position: absolute;
+  height: 2.48%;
+  width: 3.47%;
+  top: 50.07%;
+  right: 93.75%;
+  bottom: 47.45%;
+  left: 2.78%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  mix-blend-mode: linear-burn;
+}
+.emails-sonikayadav7303gmailc {
+  position: absolute;
+  top: 1389px;
+  left: 97px;
+  font-family: var(--font-langar);
+}
+.desktop-7-child {
+  position: absolute;
+  top: 611px;
+  left: 587px;
+  background-color: var(--color-gainsboro-300);
+  width: 800px;
+  height: 826px;
+}
+.email {
+  position: absolute;
+  top: 960px;
+  left: 595px;
+  letter-spacing: 0.08em;
+  font-weight: 200;
+  text-align: right;
+}
+.full-nam {
+  letter-spacing: 0.15em;
+}
+.e {
+  letter-spacing: 0.01em;
+}
+.full-name {
+  position: absolute;
+  top: 785px;
+  right: 578px;
+  font-weight: 300;
+  opacity: 0.6;
+  mix-blend-mode: darken;
+}
+.send-m {
+  letter-spacing: 0.08em;
+}
+.send-message-txt-container {
+  width: 100%;
+}
+.send-message {
+  position: absolute;
+  top: 644px;
+  right: 193px;
+  font-size: var(--font-size-81xl);
+  font-weight: 300;
+  font-family: var(--font-athiti);
+  text-align: right;
+  display: flex;
+  align-items: flex-end;
+  width: 660px;
+  height: 131px;
+  mix-blend-mode: darken;
+}
+.desktop-7-item {
+  position: absolute;
+  top: 17px;
+  left: 256px;
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+}
+.desktop-7-child1,
+.desktop-7-inner {
+  position: absolute;
+  top: 902px;
+  left: 595px;
+  width: 644px;
+  height: 6px;
+  object-fit: contain;
+}
+.desktop-7-child1 {
+  top: 1068.5px;
+  left: 595.5px;
+  width: 626.5px;
+  height: 5.8px;
+  mix-blend-mode: linear-burn;
+}
+.type-your-message {
+  position: absolute;
+  top: 1155px;
+  left: 595px;
+  letter-spacing: 0.08em;
+  font-weight: 200;
+  text-align: right;
+}
+.desktop-7-child2,
+.desktop-7-child3 {
+  position: absolute;
+  top: 1287px;
+  left: 595px;
+  width: 644px;
+  height: 1px;
+  object-fit: contain;
+}
+.desktop-7-child3 {
+  top: 356.5px;
+  left: 0;
+  width: 1444.5px;
+  height: 0.5px;
+}
+.desktop-7-child4 {
+  position: absolute;
+  top: 1340px;
+  left: 596px;
+  width: 202px;
+  height: 81.5px;
+  mix-blend-mode: darken;
+}
+.send {
+  position: absolute;
+  top: 1421px;
+  left: 621px;
+  font-size: var(--font-size-81xl);
+  letter-spacing: 0.08em;
+  font-family: var(--font-bonheur-royale);
+  text-align: right;
+  display: flex;
+  align-items: flex-end;
+  width: 152px;
+  height: 32px;
+}
+.desktop-7 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 2019px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-31xl);
+  color: var(--color-black);
+  font-family: var(--font-assistant);
+}

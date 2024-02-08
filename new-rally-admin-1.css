@@ -1,0 +1,412 @@
+.contactus3,
+.home4,
+.profile3,
+.rallyup4 {
+  position: absolute;
+  font-family: var(--font-langar);
+  display: inline-block;
+}
+.rallyup4 {
+  top: 32px;
+  left: 479px;
+  font-size: var(--font-size-109xl);
+  width: 483px;
+  height: 154px;
+}
+.contactus3,
+.home4,
+.profile3 {
+  top: 274px;
+}
+.home4 {
+  left: 867px;
+  width: 95px;
+  height: 48px;
+  cursor: pointer;
+}
+.contactus3,
+.profile3 {
+  left: 1006px;
+  width: 138px;
+  height: 44px;
+}
+.contactus3 {
+  left: 1163px;
+  width: 169px;
+  height: 40px;
+}
+.description1,
+.hosted-by1,
+.instructions1,
+.location1 {
+  position: absolute;
+  top: 450px;
+  left: 183px;
+  font-size: var(--font-size-11xl);
+  letter-spacing: -0.02em;
+  line-height: 150%;
+  color: var(--color-gray);
+  display: inline-block;
+  width: 296px;
+  height: 47px;
+}
+.description1,
+.instructions1,
+.location1 {
+  top: 516px;
+}
+.instructions1,
+.location1 {
+  top: 623px;
+}
+.instructions1 {
+  top: 742px;
+}
+.shape-with-text19,
+.shape-with-text20,
+.shape-with-text21 {
+  position: relative;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-white);
+  border: 4px dashed var(--color-gainsboro-200);
+  box-sizing: border-box;
+  width: 314px;
+  height: 225px;
+}
+.shape-with-text20,
+.shape-with-text21 {
+  width: 345px;
+}
+.shape-with-text21 {
+  width: 308px;
+  height: 220px;
+}
+.new-rally-admin-1-child {
+  position: absolute;
+  top: 352px;
+  left: 109px;
+  width: 1272px;
+  height: 3px;
+  object-fit: contain;
+}
+.meet-our-sponsors1,
+.womens-right-womens {
+  position: absolute;
+  top: 930px;
+  left: 118px;
+  letter-spacing: -0.02em;
+  line-height: 150%;
+  display: inline-block;
+  width: 422px;
+  height: 59px;
+}
+.womens-right-womens {
+  top: 374px;
+  left: 79px;
+  font-size: var(--font-size-21xl);
+  width: 883px;
+  height: 55px;
+}
+.vector-icon18,
+.vector-icon19 {
+  position: absolute;
+  height: 3.55%;
+  width: 5.58%;
+  top: 51.43%;
+  right: 74.21%;
+  bottom: 45.02%;
+  left: 20.21%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon19 {
+  right: 61.15%;
+  left: 33.26%;
+}
+.new-rally-admin-1-inner,
+.new-rally-admin-1-item {
+  position: absolute;
+  top: 1239px;
+  left: 228px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-whitesmoke-300);
+  width: 286px;
+  height: 59px;
+}
+.new-rally-admin-1-inner {
+  top: 1245px;
+  left: 877px;
+  background-color: var(--color-whitesmoke-100);
+}
+.span1 {
+  font-size: var(--font-size-21xl);
+}
+.comments1,
+.participants1,
+.registered1 {
+  position: absolute;
+  top: 1236px;
+  left: 278px;
+  letter-spacing: -0.02em;
+  line-height: 150%;
+  display: inline-block;
+  width: 209px;
+  height: 43px;
+  font-size: var(--font-size-13xl);
+}
+.participants1,
+.registered1 {
+  top: 1245px;
+  left: 922px;
+  width: 241px;
+  height: 47px;
+}
+.registered1 {
+  top: 1349px;
+  left: 765px;
+  font-size: var(--font-size-5xl);
+  width: 289px;
+  height: 41px;
+}
+.new-rally-admin-1-child1,
+.new-rally-admin-1-child2,
+.new-rally-admin-1-child3,
+.new-rally-admin-1-child4,
+.new-rally-admin-1-child5,
+.new-rally-admin-1-child6,
+.new-rally-admin-1-child7 {
+  position: absolute;
+  top: 1409px;
+  left: 747px;
+  background: linear-gradient(#f2f2f2, #f2f2f2),
+    linear-gradient(#f2f2f2, #f2f2f2), linear-gradient(#f2f2f2, #f2f2f2),
+    linear-gradient(#f2f2f2, #f2f2f2), linear-gradient(#f2f2f2, #f2f2f2),
+    #f2f2f2;
+  width: 615px;
+  height: 71px;
+}
+.new-rally-admin-1-child2,
+.new-rally-admin-1-child3,
+.new-rally-admin-1-child4,
+.new-rally-admin-1-child5,
+.new-rally-admin-1-child6,
+.new-rally-admin-1-child7 {
+  top: 1495px;
+}
+.new-rally-admin-1-child3,
+.new-rally-admin-1-child4,
+.new-rally-admin-1-child5,
+.new-rally-admin-1-child6,
+.new-rally-admin-1-child7 {
+  top: 1584px;
+  height: 73px;
+}
+.new-rally-admin-1-child4,
+.new-rally-admin-1-child5,
+.new-rally-admin-1-child6,
+.new-rally-admin-1-child7 {
+  top: 1674px;
+  height: 71px;
+}
+.new-rally-admin-1-child5,
+.new-rally-admin-1-child6,
+.new-rally-admin-1-child7 {
+  top: 1769px;
+  left: 752px;
+}
+.new-rally-admin-1-child6,
+.new-rally-admin-1-child7 {
+  top: 1864px;
+  left: 747px;
+}
+.new-rally-admin-1-child7 {
+  top: 1965px;
+}
+.vector-icon20,
+.vector-icon21,
+.vector-icon22,
+.vector-icon23,
+.vector-icon24,
+.vector-icon25,
+.vector-icon26 {
+  position: absolute;
+  height: 2.18%;
+  width: 3.54%;
+  top: 68.83%;
+  right: 42.22%;
+  bottom: 28.99%;
+  left: 54.24%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon21,
+.vector-icon22,
+.vector-icon23,
+.vector-icon24,
+.vector-icon25,
+.vector-icon26 {
+  top: 73.1%;
+  bottom: 24.72%;
+}
+.vector-icon22,
+.vector-icon23,
+.vector-icon24,
+.vector-icon25,
+.vector-icon26 {
+  top: 77.46%;
+  bottom: 20.36%;
+}
+.vector-icon23,
+.vector-icon24,
+.vector-icon25,
+.vector-icon26 {
+  top: 81.68%;
+  bottom: 16.14%;
+}
+.vector-icon24,
+.vector-icon25,
+.vector-icon26 {
+  top: 86.77%;
+  bottom: 11.05%;
+}
+.vector-icon25,
+.vector-icon26 {
+  top: 91.03%;
+  bottom: 6.79%;
+}
+.vector-icon26 {
+  top: 95.35%;
+  bottom: 2.47%;
+}
+.new-rally-admin-1-child8 {
+  top: 1375px;
+  background-color: var(--color-gainsboro-100);
+}
+.new-rally-admin-1-child10,
+.new-rally-admin-1-child11,
+.new-rally-admin-1-child8,
+.new-rally-admin-1-child9 {
+  position: absolute;
+  left: 39px;
+  border-radius: var(--br-11xl);
+  width: 504px;
+  height: 120px;
+}
+.new-rally-admin-1-child9 {
+  top: 1553px;
+  background-color: var(--color-gainsboro-100);
+}
+.new-rally-admin-1-child10,
+.new-rally-admin-1-child11 {
+  top: 1732px;
+}
+.new-rally-admin-1-child11 {
+  top: 1900px;
+  background-color: var(--color-gainsboro-100);
+}
+.can-we-bring1,
+.doing-great-work1,
+.much-needed-session1,
+.super-excited1 {
+  position: absolute;
+  top: 1423px;
+  left: 181px;
+  font-size: var(--font-size-5xl);
+  letter-spacing: -0.02em;
+  line-height: 150%;
+  display: inline-block;
+  width: 264px;
+  height: 43px;
+}
+.can-we-bring1,
+.much-needed-session1,
+.super-excited1 {
+  top: 1797px;
+  left: 196px;
+}
+.can-we-bring1,
+.much-needed-session1 {
+  top: 1616px;
+  left: 153px;
+  width: 309px;
+  height: 44px;
+}
+.can-we-bring1 {
+  top: 1939px;
+  left: 115px;
+  width: 428px;
+  height: 73px;
+}
+.vector-icon27,
+.vector-icon28,
+.vector-icon29,
+.vector-icon30 {
+  position: absolute;
+  height: 1.5%;
+  width: 1.88%;
+  top: 67.33%;
+  right: 93.89%;
+  bottom: 31.17%;
+  left: 4.24%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon28,
+.vector-icon29,
+.vector-icon30 {
+  height: 1.65%;
+  top: 75.96%;
+  bottom: 22.39%;
+}
+.vector-icon29,
+.vector-icon30 {
+  top: 84.59%;
+  bottom: 13.77%;
+}
+.vector-icon30 {
+  top: 92.63%;
+  bottom: 5.72%;
+}
+.shelly1 {
+  position: absolute;
+  top: 1390px;
+  left: 106px;
+  font-size: var(--font-size-xl);
+  letter-spacing: -0.02em;
+  line-height: 150%;
+  display: inline-block;
+  width: 207px;
+  height: 30px;
+}
+.new-rally-admin-1-child12 {
+  position: absolute;
+  top: 940px;
+  left: 893px;
+  border-radius: 40px;
+  background-color: var(--color-gainsboro-300);
+  width: 439px;
+  height: 107px;
+}
+.join-the-rally {
+  position: absolute;
+  top: 970px;
+  left: 1004px;
+  font-family: var(--font-langar);
+  display: inline-block;
+  width: 265px;
+  height: 75px;
+}
+.new-rally-admin-1 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 2063px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  font-family: var(--font-figma-hand);
+}

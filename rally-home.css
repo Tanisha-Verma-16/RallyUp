@@ -1,0 +1,262 @@
+.contactus4,
+.home5,
+.profile4,
+.rallyup5 {
+  position: absolute;
+  top: 46px;
+  left: 479px;
+  font-size: var(--font-size-109xl);
+  display: inline-block;
+  width: 483px;
+  height: 154px;
+}
+.contactus4,
+.home5,
+.profile4 {
+  top: 262px;
+  left: 1053px;
+  font-size: var(--font-size-17xl);
+  width: 138px;
+  height: 44px;
+}
+.contactus4,
+.home5 {
+  left: 853px;
+}
+.contactus4 {
+  top: 266px;
+  left: 1253px;
+  width: 169px;
+  height: 40px;
+}
+.component-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: #eee;
+}
+.rally-home-inner {
+  position: absolute;
+  top: 435px;
+  left: 609px;
+  width: 394px;
+  height: 109px;
+  cursor: pointer;
+}
+.create-a-rally1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  letter-spacing: -0.02em;
+  line-height: 150%;
+  display: inline-block;
+}
+.create-a-rally {
+  position: absolute;
+  top: 456px;
+  left: 629px;
+  width: 355px;
+  height: 66px;
+  font-family: var(--font-figma-hand);
+}
+.shape-with-text22,
+.shape-with-text23,
+.shape-with-text24,
+.shape-with-text26,
+.shape-with-text27 {
+  position: relative;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-white);
+  border: 4px dashed var(--color-gainsboro-200);
+  box-sizing: border-box;
+  width: 308px;
+  height: 220px;
+}
+.shape-with-text23,
+.shape-with-text24,
+.shape-with-text26,
+.shape-with-text27 {
+  width: 314px;
+  height: 225px;
+}
+.shape-with-text24,
+.shape-with-text26,
+.shape-with-text27 {
+  width: 345px;
+}
+.shape-with-text26,
+.shape-with-text27 {
+  width: 329px;
+}
+.shape-with-text27 {
+  width: 347px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.rally-up4 {
+  position: absolute;
+  top: 972px;
+  left: 389px;
+  width: 309px;
+  height: 60px;
+  cursor: pointer;
+  color: var(--color-gray);
+  font-family: var(--font-figma-hand);
+}
+.rally-home-child {
+  position: absolute;
+  top: 1032px;
+  left: 820px;
+  background-color: #ececec;
+  width: 575px;
+  height: 58px;
+}
+.search-by-name {
+  position: absolute;
+  top: 1036px;
+  left: 954px;
+  font-size: var(--font-size-5xl);
+  letter-spacing: -0.02em;
+  line-height: 150%;
+  display: inline-block;
+  font-family: var(--font-figma-hand);
+  white-space: pre-wrap;
+  width: 408px;
+  height: 56px;
+}
+.vector-icon31 {
+  position: absolute;
+  height: 2.42%;
+  width: 3.89%;
+  top: 50.22%;
+  right: 36.88%;
+  bottom: 47.36%;
+  left: 59.24%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.your-previous-rallies {
+  top: 1712px;
+  left: 359px;
+  font-size: var(--font-size-17xl);
+  letter-spacing: -0.02em;
+  line-height: 150%;
+  font-family: var(--font-figma-hand);
+  width: 438px;
+  height: 61px;
+}
+.rally-on-awareness,
+.your-previous-rallies,
+.your-rally {
+  position: absolute;
+  display: inline-block;
+}
+.rally-on-awareness {
+  top: 1124px;
+  left: 389px;
+  font-size: var(--font-size-13xl);
+  letter-spacing: -0.02em;
+  line-height: 150%;
+  font-family: var(--font-figma-hand);
+  width: 278px;
+  height: 173px;
+}
+.your-rally {
+  top: 601px;
+  left: 371px;
+  width: 435px;
+  height: 80px;
+}
+.rally-home-item {
+  position: absolute;
+  top: 522px;
+  left: 25px;
+  background-color: var(--color-whitesmoke-200);
+  width: 299px;
+  height: 845px;
+}
+.notification2,
+.notification3,
+.rallyup6,
+.report-incidence1 {
+  position: absolute;
+  top: 1022px;
+  left: 41px;
+  display: inline-block;
+  width: 266px;
+  height: 53px;
+}
+.notification3,
+.rallyup6,
+.report-incidence1 {
+  top: 933px;
+  left: 58px;
+}
+.rallyup6,
+.report-incidence1 {
+  top: 839px;
+  left: 41px;
+  width: 302px;
+  height: 47px;
+}
+.rallyup6 {
+  top: 736px;
+  left: 89px;
+  width: 206px;
+  height: 57px;
+  cursor: pointer;
+}
+.my-dashboard1 {
+  top: 562px;
+  left: 42px;
+  display: inline-block;
+  width: 279px;
+  height: 52px;
+}
+.dc,
+.frame-div,
+.my-dashboard1 {
+  position: absolute;
+}
+.dc {
+  top: 715px;
+  left: 451px;
+  font-size: var(--font-size-17xl);
+  display: inline-block;
+  width: 178px;
+  height: 171px;
+  cursor: pointer;
+}
+.frame-div {
+  top: 1067px;
+  left: 560px;
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+}
+.line-icon {
+  position: absolute;
+  top: 631px;
+  left: 33px;
+  width: 274px;
+  height: 2px;
+  object-fit: contain;
+}
+.rally-home {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 2063px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-langar);
+}

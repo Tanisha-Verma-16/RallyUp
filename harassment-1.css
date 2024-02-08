@@ -1,0 +1,9 @@
+.harassment-1 {
+  width: 100%;
+  position: relative;
+  height: 440px;
+  background-image: url(./public/harassment-1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}

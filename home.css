@@ -1,0 +1,18 @@
+.home8 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.home7 {
+  width: 100%;
+  position: relative;
+  height: 48px;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  font-family: var(--font-langar);
+}

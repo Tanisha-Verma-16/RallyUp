@@ -1,0 +1,18 @@
+.vector-icon34 {
+  position: absolute;
+  height: 87.5%;
+  width: 85%;
+  top: 6.25%;
+  right: 7.5%;
+  bottom: 6.25%;
+  left: 7.5%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.pajamasx {
+  width: 100%;
+  position: relative;
+  height: 16px;
+  overflow: hidden;
+}

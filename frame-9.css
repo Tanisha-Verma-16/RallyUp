@@ -1,0 +1,176 @@
+.channels1,
+.vector-icon49 {
+  position: absolute;
+  top: 7.23%;
+}
+.vector-icon49 {
+  height: 6.17%;
+  width: 6.04%;
+  right: 88.9%;
+  bottom: 86.6%;
+  left: 5.06%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.channels1 {
+  height: 7.83%;
+  width: 27.25%;
+  left: 14.47%;
+  font-size: var(--font-size-45xl);
+  letter-spacing: -0.02em;
+  line-height: 150%;
+  display: inline-block;
+}
+.frame-inner {
+  position: absolute;
+  height: 7.68%;
+  width: 77.39%;
+  top: 17.32%;
+  right: 9.41%;
+  bottom: 75%;
+  left: 13.2%;
+  background-color: var(--color-gainsboro-300);
+  mix-blend-mode: normal;
+}
+.introdctions {
+  position: absolute;
+  top: 10px;
+  left: 24px;
+  letter-spacing: -0.02em;
+  line-height: 150%;
+  display: inline-block;
+  width: 1068px;
+  height: 92px;
+}
+.frame-child1 {
+  position: absolute;
+  height: 91.05%;
+  width: 98.57%;
+  top: 0;
+  right: 4.83%;
+  bottom: 8.95%;
+  left: -3.4%;
+  background-color: var(--color-gainsboro-300);
+  mix-blend-mode: normal;
+}
+.intros {
+  position: absolute;
+  top: 17px;
+  left: 142px;
+  letter-spacing: -0.02em;
+  line-height: 150%;
+  display: inline-block;
+  width: 1068px;
+  height: 92px;
+}
+.vector-icon50 {
+  position: absolute;
+  height: 81.1%;
+  width: 73.28%;
+  top: 9.45%;
+  right: 13.43%;
+  bottom: 9.45%;
+  left: 13.28%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.teenyiconshashtag-solid-child {
+  position: absolute;
+  height: 666.71%;
+  width: 666.72%;
+  top: -900%;
+  right: -566.72%;
+  bottom: 333.29%;
+  left: 0;
+  overflow: hidden;
+}
+.introdctions-parent,
+.teenyiconshashtag-solid {
+  position: absolute;
+  top: 25px;
+  left: 24px;
+  width: 67px;
+  height: 73px;
+  overflow: hidden;
+}
+.introdctions-parent {
+  height: 9.34%;
+  width: 81.88%;
+  top: 31.7%;
+  right: 4.92%;
+  bottom: 58.96%;
+  left: 13.2%;
+}
+.general {
+  position: absolute;
+  height: 6.93%;
+  width: 75%;
+  top: 18.07%;
+  left: 23.74%;
+  letter-spacing: -0.02em;
+  line-height: 150%;
+  display: inline-block;
+}
+.frame-child2,
+.frame-child3 {
+  position: absolute;
+  height: 7.68%;
+  width: 77.39%;
+  top: 63.1%;
+  right: 8.92%;
+  bottom: 29.22%;
+  left: 13.69%;
+  background-color: var(--color-gainsboro-300);
+  mix-blend-mode: normal;
+}
+.frame-child3 {
+  top: 46.99%;
+  right: 9.41%;
+  bottom: 45.33%;
+  left: 13.2%;
+}
+.leadeship,
+.volunteers {
+  position: absolute;
+  height: 6.93%;
+  width: 75%;
+  top: 63.86%;
+  left: 23.74%;
+  letter-spacing: -0.02em;
+  line-height: 150%;
+  display: inline-block;
+}
+.leadeship {
+  top: 47.74%;
+}
+.teenyiconshashtag-solid1,
+.teenyiconshashtag-solid2,
+.teenyiconshashtag-solid3 {
+  position: absolute;
+  top: 249px;
+  left: 212px;
+  width: 67px;
+  height: 73px;
+  overflow: hidden;
+}
+.teenyiconshashtag-solid2,
+.teenyiconshashtag-solid3 {
+  top: 644px;
+}
+.teenyiconshashtag-solid3 {
+  top: 848px;
+  left: 221px;
+}
+.vector-parent {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1328px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-black);
+  font-family: var(--font-figma-hand);
+}

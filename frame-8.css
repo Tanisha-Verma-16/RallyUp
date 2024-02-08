@@ -1,0 +1,72 @@
+.past-events {
+  position: absolute;
+  top: 786px;
+  left: 108px;
+  display: inline-block;
+  width: 536px;
+  height: 96px;
+}
+.teenyiconsarrow-right-circle- {
+  position: absolute;
+  top: 1569px;
+  left: 1273px;
+  width: 15px;
+  height: 15px;
+  overflow: hidden;
+}
+.frame-item {
+  position: absolute;
+  top: 31px;
+  left: 865px;
+  background-color: rgba(217, 217, 217, 0.07);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 437px;
+  height: 61px;
+}
+.teenyiconssearch-circle-outli {
+  position: absolute;
+  top: 23px;
+  left: 780px;
+  width: 68px;
+  height: 68px;
+  overflow: hidden;
+}
+.search-events {
+  position: absolute;
+  top: 42px;
+  left: 899px;
+  font-size: var(--font-size-13xl);
+  backdrop-filter: blur(4px);
+}
+.vector-icon43,
+.vector-icon44 {
+  position: absolute;
+  height: 3.81%;
+  width: 5.1%;
+  top: 5.31%;
+  right: 92.65%;
+  bottom: 90.88%;
+  left: 2.25%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon44 {
+  top: 45.38%;
+  right: 93.4%;
+  bottom: 50.81%;
+  left: 1.5%;
+}
+.past-events-parent {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1732px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

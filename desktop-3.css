@@ -1,0 +1,29 @@
+.rally-up7 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  letter-spacing: -0.02em;
+  line-height: 150%;
+  display: inline-block;
+}
+.rally-up6 {
+  position: absolute;
+  top: 455px;
+  left: 375px;
+  width: 210px;
+  height: 60px;
+  cursor: pointer;
+}
+.desktop-3 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 2015px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-gray);
+  font-family: var(--font-figma-hand);
+}
