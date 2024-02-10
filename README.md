@@ -18,9 +18,12 @@ AI/ML: scikit learn
 Data Analysis : Pandas. Numpy
 
 Team CodeChicas :
-Suhani Goyal (1st year student at IGDTUW (CSE_AI)
-Tanisha Verma (1st year student at IGDTUW (CSE_AI)
-Sonika (1st year student at IGDTUW (CSE_AI)
-Saanvi Upadhyay (1st year student at IGDTUW (CSE_AI)
+Team Admin : Suhani Goyal (1st year student at IGDTUW (CSE_AI)
+Members :
+1. Tanisha Verma (1st year student at IGDTUW (CSE_AI)
+
+2. Sonika (1st year student at IGDTUW (CSE_AI)
+
+3. Saanvi Upadhyay (1st year student at IGDTUW (CSE_AI)
 
   
